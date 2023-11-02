@@ -60,5 +60,3 @@ The system handles various exceptions, including `DuplicatePassengerException`, 
 
 ## Note
 The system is designed as a command-line interface for demonstration purposes. It can be extended to incorporate a user-friendly graphical interface if needed.
-
-This `README` file provides an overview of the Flight Reservation System and instructions for running it. You can now interact with the system to explore its functionalities.
